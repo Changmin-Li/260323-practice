@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.set_page_config(page_title="2026학년도 1학기 인천대학교 사범대학 수학교육과 교과목 소개", page_icon="📚")
+
 st.markdown("""
 <style>
 @font-face {
